@@ -1,1 +1,2 @@
 # Medical-Appointment-System
+The Medical Appointment System is a seamless way for patients to book, view, and cancel appointments with doctors and specialists instead of having to go to the hospital to do it. It is developed in C++ following Object-Oriented Programming principles. This system significantly improves scheduling efficiency and provides convenient access to medical consultations while maintaining an intuitive, user-friendly interface. By leveraging modern programming techniques, it ensures reliability, accuracy, and security in managing medical appointments.
