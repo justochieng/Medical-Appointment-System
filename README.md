@@ -2,15 +2,15 @@
 The Medical Appointment System is a seamless way for patients to book, view, and cancel appointments with doctors and specialists instead of having to go to the hospital to do it. It is developed in C++ following Object-Oriented Programming principles. This system significantly improves scheduling efficiency and provides convenient access to medical consultations while maintaining an intuitive, user-friendly interface. By leveraging modern programming techniques, it ensures reliability, accuracy, and security in managing medical appointments.
 
 # Installation Instructions
-•	Download or clone the project files from the repository.
+•	Download or clone the project files from the repository.  
 •	Open the project folder in Visual Studio Code or your chosen IDE.
 •	Compile the program using the following command: g++ -o MedicalAppointmentSystem main.cpp Patient.cpp Doctor.cpp Specialist.cpp System.cpp
 •	Execute the compiled program
 
 # Usage Guide
-•	Book an Appointment: Enter patient and doctor details along with the preferred appointment date.
-•	View Appointments: Display all scheduled appointments, showing relevant patient and doctor details.
-•	Cancel an Appointment: Select an appointment by its unique ID to cancel it.
+•	Book an Appointment: Enter patient and doctor details along with the preferred appointment date.  
+•	View Appointments: Display all scheduled appointments, showing relevant patient and doctor details.  
+•	Cancel an Appointment: Select an appointment by its unique ID to cancel it.  
 •	Update an Appointment: Modify the date of an existing appointment when necessary.
 •	Search for an Appointment: Retrieve details of an appointment using its unique ID.
 
