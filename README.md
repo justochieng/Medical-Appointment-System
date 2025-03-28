@@ -14,7 +14,7 @@ The Medical Appointment System is a seamless way for patients to book, view, and
 •	Update an Appointment: Modify the date of an existing appointment when necessary.  
 •	Search for an Appointment: Retrieve details of an appointment using its unique ID.  
 
-#Code Structure
+# Code Structure
 •	main.cpp: Contains the main() function and core execution logic.  
 •	Patient.h and Patient.cpp: Define patient-related attributes and operations.  
 •	Doctor.h and Doctor.cpp: Define doctor-related attributes and operations.  
